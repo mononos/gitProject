@@ -6,6 +6,9 @@
 //  Copyright 2554 nos.nbs@gmail.com. All rights reserved.
 //
 
+/// AAA
+/// BBB
+
 #import <UIKit/UIKit.h>
 
 @interface gitProjectAppDelegate : NSObject <UIApplicationDelegate>
